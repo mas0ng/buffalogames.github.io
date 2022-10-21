@@ -7,6 +7,10 @@
 
 <html>
 <body>
+ 
+ <a href="google.com" class="button">Unblocked Games</a>
+
+ <br>
 
 <button type="button" onclick="alert('There is no infomation at the moment')">More Infomation</button>
 <button type="button" onclick="alert('There is no infomation at the moment')">Terms and conditions</button>
