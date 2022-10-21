@@ -16,8 +16,6 @@
 <button type="button" onclick="alert('There is no infomation at the moment')">Terms and conditions</button>
  
  <br>
- 
-<a href="google.com" class="button">Unblocked Games</a>
 
 </body>
 <html>
