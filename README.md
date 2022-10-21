@@ -8,8 +8,7 @@
 <html>
 <body>
  
- <a href="https://mas0ng.github.io/games" class="button">Unblocked Games</a>
-
+<a href="https://mas0ng.github.io/unblocked-games" class="button">Unblocked games</a>
  <br>
 
 <button type="button" onclick="alert('There is no infomation at the moment')">More Infomation</button>
