@@ -8,7 +8,7 @@
 <html>
 <body>
  
- <a href="google.com" class="button">Unblocked Games</a>
+ <a href="https://mas0ng.github.io/games" class="button">Unblocked Games</a>
 
  <br>
 
