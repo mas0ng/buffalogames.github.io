@@ -13,7 +13,7 @@
  
  <br>
  
-<a href="mas0ng.github.io/unblockedgames" class="button">Unblocked Games</a>
+<a href="google.com" class="button">Unblocked Games</a>
 
 </body>
 <html>
