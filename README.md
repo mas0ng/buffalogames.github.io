@@ -9,7 +9,7 @@ By clicking any link you agree to the
 <html>
 <body>
  <br>
- <br>
+ 
 <a href="https://sites.google.com/view/buffalosunblockedgames/home" class="button">Unblocked games website</a>
  <br>
 <br>
