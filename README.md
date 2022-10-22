@@ -8,7 +8,7 @@
 <html>
 <body>
  
-<a href="https://sites.google.com/view/unblocked-games87/home" class="button">Unblocked games website</a>
+<a href="https://sites.google.com/view/buffalosunblockedgames/home" class="button">Unblocked games website</a>
  <br>
 <br>
  
