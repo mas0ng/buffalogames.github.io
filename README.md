@@ -8,12 +8,10 @@
 <html>
 <body>
  
-<a href="https://sites.google.com/view/buffalosunblockedgames/home" class="button">Click here to playUnblocked games website</a>
+<a href="https://sites.google.com/view/buffalosunblockedgames/home" class="button">Click Here To Play Buffalo's Unblocked games website</a>
  <br>
-<br>
- 
-<button type="button" onclick="alert('There is no infomation at the moment')">More Infomation</button>
-<button type="button" onclick="alert('There is no infomation at the moment')">Terms and conditions</button>
+<button type="button" onclick="alert('There is no infomation at the moment')">More Infomation About  Buffalo's Unblocked ganes website.</button>
+
  
  <br>
 
